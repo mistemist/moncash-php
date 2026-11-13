@@ -1,4 +1,7 @@
 # moncash-php
+[![tests](https://github.com/mistemist/moncash-php/actions/workflows/tests.yml/badge.svg](https://github.com/mistemist/moncash-php/actions/workflows/tests.yml)
+[![Latest Stable Version](https://img.shields.io/packagist/v/moncash-php/moncash-php.svg](https://packagist.org/packages/moncash-php/moncash-php)
+[![Downloads](https://img.shields.io/packagist/dt/moncash-php/moncash-php.svg](https://packagist.org/packages/moncash-php/moncash-php)
 
 A clean, framework-agnostic **PHP SDK for the Digicel MonCash API** (Haiti 🇭🇹).
 Zero dependencies — just PHP 8.1+ and cURL.
